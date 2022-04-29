@@ -1,0 +1,13 @@
+[package]
+name = "wave-function-collapse-demo"
+license = "0BSD"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enumset = "1"
+piston = "0.53"
+piston2d-graphics = "0.42"
+pistoncore-glutin_window = "0.69"
+piston2d-opengl_graphics = "0.81"
+rand = "0.8"
